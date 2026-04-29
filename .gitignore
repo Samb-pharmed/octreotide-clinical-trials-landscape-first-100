@@ -6,3 +6,4 @@ data/processed/
 outputs/
 *.xlsx
 *.csv
+data/raw/
